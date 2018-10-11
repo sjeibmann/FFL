@@ -36,6 +36,11 @@ body {
   height: 100%;
 }
 
+.inline{
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
